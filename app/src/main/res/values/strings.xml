@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MultipleLoaderDemo</string>
+    <string name="sim_card_contact">SIM CARD CONTACTS</string>
+    <string name="phone_contact">PHONE CONTACTS</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_my">MyActivity</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
